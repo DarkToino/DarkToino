@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://giphy.com/explore/its-fine](https://tenor.com/search/this-is-fine-gifs](https://tenor.com/view/this-is-fine-fire-house-burning-okay-gif-5263684)"  />
+<img align="right" height="150" src="(https://tenor.com/view/this-is-fine-fire-house-burning-okay-gif-5263684)"  />
 
 ###
 
