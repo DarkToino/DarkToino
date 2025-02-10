@@ -2,7 +2,28 @@
 
 ###
 
-<img align="right" height="150" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkyMTE0NDMsIm5iZiI6MTczOTIxMTE0MywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjEwVDE4MTIyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJkNmM4ZDM1NTI3ZGE4MzFkYTk4MjVhY2QxYWQ5OGYyZWQwZWQ4OWMxMDdiMjNkNzgwNWZlODA1NDMxMzEzZWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.24fPcBnvlIh5XTxHbLW68rJlSs0raYhNjRHhyxuIdbs"  />
+<img align="right" height="200" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkyMTE0NDMsIm5iZiI6MTczOTIxMTE0MywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjEwVDE4MTIyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJkNmM4ZDM1NTI3ZGE4MzFkYTk4MjVhY2QxYWQ5OGYyZWQwZWQ4OWMxMDdiMjNkNzgwNWZlODA1NDMxMzEzZWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.24fPcBnvlIh5XTxHbLW68rJlSs0raYhNjRHhyxuIdbs"  />
+
+###
+
+<br clear="both">
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pedrobcarvalho0601&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+###
+
+<br clear="both">
+
+###
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrobcarvalho0601&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&custom_title=My%20personal%20stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrobcarvalho0601&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 🔝 Top Contributed Repo
 ###
