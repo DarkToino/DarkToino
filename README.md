@@ -1,9 +1,8 @@
 <h3 align="left">Hi everyone, welcome to my profile👋! <br>My name is António and I'm a Eletrical & Computer Engineer Student in Coimbra (Portugal)</h3>
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhjeHd2anF0bGYxamZ3aHp0NTVjOHZyZmp2dzJma3RoNzdoaWxyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9M5jK4GXmD5o1irGrF/giphy.gif
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/this-is-fine-fire-house-burning-okay-gif-5263684](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhjeHd2anF0bGYxamZ3aHp0NTVjOHZyZmp2dzJma3RoNzdoaWxyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9M5jK4GXmD5o1irGrF/giphy.gif"  />
+<img align="right" height="150" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkyMTE0NDMsIm5iZiI6MTczOTIxMTE0MywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjEwVDE4MTIyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJkNmM4ZDM1NTI3ZGE4MzFkYTk4MjVhY2QxYWQ5OGYyZWQwZWQ4OWMxMDdiMjNkNzgwNWZlODA1NDMxMzEzZWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.24fPcBnvlIh5XTxHbLW68rJlSs0raYhNjRHhyxuIdbs"  />
 
 ###
 
