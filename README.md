@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/explore/its-fine"  />
+<img align="right" height="150" src="https://giphy.com/explore/its-fine](https://tenor.com/search/this-is-fine-gifs"  />
 
 ###
 
