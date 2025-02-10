@@ -1,4 +1,5 @@
 <h3 align="left">Hi everyone, welcome to my profile👋! <br>My name is António and I'm a Eletrical & Computer Engineer Student in Coimbra (Portugal)</h3>
+https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhjeHd2anF0bGYxamZ3aHp0NTVjOHZyZmp2dzJma3RoNzdoaWxyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9M5jK4GXmD5o1irGrF/giphy.gif
 
 ###
 
